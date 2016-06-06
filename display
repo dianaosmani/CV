@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>Display test</title>
+		<style>
+		span{
+			background-color: green;
+			width: 700px;
+			height: 200px;
+			padding-left: 100px;
+			display:inline;
+		}
+
+		div{
+			background-color: yellow;
+			width: 800px;
+			height:200px;
+		}
+		</style>
+
+	</head>
+		<body>
+			<p>hello this is a test with a <span>span tag</span> in it. sjadfkjashkfncdk</p>
+
+			<div>klajfkncdnvri foiedj fnwrinfkjsenf  efkjs fndjsknfke heigjkdnf skjfeouopwiejfs</div>
+
+		
+
+		</body>
+
+</html>
